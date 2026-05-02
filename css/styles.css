@@ -1,0 +1,22 @@
+/* NAUR Design System CSS Extracted */
+
+/* Add your extracted NAUR CSS styles below this comment */
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+button {
+    background-color: #0284c7;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+}
+
+/* Add more styles as needed */
